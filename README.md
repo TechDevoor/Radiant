@@ -1,4 +1,4 @@
-# [X Community](https://x.com/i/communities/2009565278913302984)
+https://x.com/i/communities/2009565278913302984
 ![Radiant](https://github.com/user-attachments/assets/58917a90-9730-448a-90a6-8f39b5b955b8)
 
 # Radiant CA:

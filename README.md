@@ -1,7 +1,7 @@
 https://x.com/i/communities/2009565278913302984
 ![Radiant](https://github.com/user-attachments/assets/58917a90-9730-448a-90a6-8f39b5b955b8)
 
-# Radiant CA:
+# Radiant CA: 8EuUsAKZRV9BjG4PavBoWT6sqZMKxev9BDQrsGaPpump
 
 **Radiant** is a **Solana-based lending and borrowing protocol** built with **Anchor**, designed to enable efficient on-chain credit markets with real-time risk monitoring and automated interest accrual.
 
